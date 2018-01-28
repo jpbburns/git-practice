@@ -5,6 +5,7 @@ try:
 	x = int(input("Enter a number! "))
 except ValueError:
 	print("That's not a number and you know it.")
+	exit()
 
 for i in range(1, x+1):
 	print(i)
