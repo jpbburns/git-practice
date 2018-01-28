@@ -1,3 +1,5 @@
 print("Guacamole sausage at a pancake party...")
 print("Everybody's touching all my fries")
 print("Add some lines to this file, commit, push, pull request...")
+print("Every one is here but haven't washed their hands")
+print("It's a summer halloween party")
